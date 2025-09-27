@@ -1,0 +1,13 @@
+index1.ts
+index2.ts
+index3.ts
+index4.ts
+array.json
+
+.env
+
+/dist
+
+node_modules
+
+dump.ts
